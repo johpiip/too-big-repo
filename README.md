@@ -15,3 +15,7 @@ But suddenly, I start adding stuff for my new branch! No one saw that coming!
 Branches are super beautiful things! Very very beautiful things!
 
 How does this verification work? What about now? Too difficult!
+
+-----
+
+Now, this repo does not have any history because I moved the original version to `too-big-repo-old` and re-initialized `too-big-repo` and remover history.
